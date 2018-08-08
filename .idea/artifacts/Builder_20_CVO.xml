@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="Builder_20-CVO">
+    <output-path>$PROJECT_DIR$/out/artifacts/Builder_20_CVO</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="sample.Main" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="nativeBundle" value="all" />
+        <option name="title" value="20-CVO" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="20-CVO_App.jar">
+        <element id="module-output" name="xlsCombiner" />
+        <element id="library" level="project" name="com.google.guava:guava:18.0" />
+        <element id="library" level="project" name="org.apache.poi:poi-ooxml:3.9" />
+      </element>
+    </root>
+  </artifact>
+</component>
